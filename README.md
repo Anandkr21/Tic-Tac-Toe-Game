@@ -80,12 +80,12 @@ To run backend, run the following command
 
 ## Authors
 
-- [@abhijeetsenguptaa](https://www.github.com/abhijeetsenguptaa)
 - [@Anandkr21](https://www.github.com/Anandkr21)
+- [@abhijeetsenguptaa](https://www.github.com/abhijeetsenguptaa)
 - [@shobhit0111](https://www.github.com/shobhit0111)
 - [@ShubhangiSisodia](https://www.github.com/ShubhangiSisodia)
 
 
 ## Feedback
 
-If you have any feedback, please reach out to us at abhi.bunny@gmail.com
+If you have any feedback, please reach out to me at 📭 anandkumargupta.akg15@gmail.com
