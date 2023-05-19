@@ -3,7 +3,7 @@
 # racial-class-2069
 
 # Project Title:- Live X's and O's Application
-
+![Click here to play now.](https://tic-tae-toe-project.netlify.app/)
 
 ![tic-tac-toe-logo](https://user-images.githubusercontent.com/112754749/229367360-6b4f3bcd-40c2-4d0f-92a9-529e6cd1b4bc.png)
 
